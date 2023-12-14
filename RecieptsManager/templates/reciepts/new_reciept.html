@@ -1,0 +1,5 @@
+<form action="{% url "reciepts:newReciept" %}" method="post">
+    {% csrf_token %}
+    {{form}}
+    <button type="Submit">Submit</button>
+</form>
