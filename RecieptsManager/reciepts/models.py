@@ -2,7 +2,7 @@ from django.db import models
 from django.contrib.auth.models import User
 
 
-class Reciepts(models.Model):
+class Reciept(models.Model):
     user = models.ForeignKey(User, on_delete=models.CASCADE)
     store_name = models.CharField(max_length=100)
     data_of_purchase = models.DateField()
