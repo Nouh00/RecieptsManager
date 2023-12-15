@@ -10,23 +10,19 @@ This is a simple Django application that allows users to manually enter and trac
 - Receipt management (create, list, detail, update, delete)
 - Basic testing for models and views
 
-## Requirements
-
-- Python (>=3.6)
-- Django (>=3.x)
 
 ## Installation
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/django-receipt-tracker.git
+    git clone https://github.com/Nouh00/RecieptsManager.git
     ```
 
 2. Change into the project directory:
 
     ```bash
-    cd django-receipt-tracker
+    cd RecieptsManager
     ```
 
 3. Install the required dependencies:
@@ -61,3 +57,11 @@ Run the tests using the Django test runner:
 
 ```bash
 python manage.py test reciepts.tests
+
+
+## Project Demo
+
+Watch a demonstration of the Django Receipt Tracker in action:
+
+[![Django Receipt Manager Demo]](https://drive.google.com/file/d/14Yjoh-oOrvVr_YAWurNoWfPTnCcKeFEM/view)
+
