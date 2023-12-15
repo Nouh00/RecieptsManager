@@ -57,11 +57,4 @@ Run the tests using the Django test runner:
 
 ```bash
 python manage.py test reciepts.tests
-
-
-## Project Demo
-
-Watch a demonstration of the Django Receipt Tracker in action:
-
-[![Django Receipt Manager Demo]](https://drive.google.com/file/d/14Yjoh-oOrvVr_YAWurNoWfPTnCcKeFEM/view)
-
+```
